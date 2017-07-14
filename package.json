@@ -7,5 +7,16 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Tyler Voss <tVoss42@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tVoss/octave.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tVoss/octave/issues"
+  },
+  "homepage": "https://github.com/tVoss/octave#readme"
 }
