@@ -1,0 +1,11 @@
+{
+  "name": "octave",
+  "version": "1.0.0",
+  "description": "Movie file utility",
+  "main": "octave.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tyler Voss <tVoss42@gmail.com>",
+  "license": "MIT"
+}
